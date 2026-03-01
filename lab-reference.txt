@@ -1,0 +1,4 @@
+
+langchain lab reference
+
+https://github.com/rushtojp/LangChain-Azure-AI-Foundry
